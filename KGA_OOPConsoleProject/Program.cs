@@ -10,6 +10,7 @@ namespace KGA_OOPConsoleProject
     {
         static void Main(string[] args)
         {
+            Game.Run();
         }
     }
 }
